@@ -1,2 +1,3 @@
-# buscaCepPhp
- Backend em php do projeto busca cep
+# Busca Cep
+
+Para utilizar rode o docker em volume local
